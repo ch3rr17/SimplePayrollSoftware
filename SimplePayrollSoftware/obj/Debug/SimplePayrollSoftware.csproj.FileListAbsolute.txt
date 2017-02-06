@@ -1,0 +1,6 @@
+C:\Users\cherr\dev\SimplePayrollSoftware\SimplePayrollSoftware\bin\Debug\SimplePayrollSoftware.exe.config
+C:\Users\cherr\dev\SimplePayrollSoftware\SimplePayrollSoftware\obj\Debug\SimplePayrollSoftware.csprojResolveAssemblyReference.cache
+C:\Users\cherr\dev\SimplePayrollSoftware\SimplePayrollSoftware\bin\Debug\SimplePayrollSoftware.exe
+C:\Users\cherr\dev\SimplePayrollSoftware\SimplePayrollSoftware\bin\Debug\SimplePayrollSoftware.pdb
+C:\Users\cherr\dev\SimplePayrollSoftware\SimplePayrollSoftware\obj\Debug\SimplePayrollSoftware.exe
+C:\Users\cherr\dev\SimplePayrollSoftware\SimplePayrollSoftware\obj\Debug\SimplePayrollSoftware.pdb

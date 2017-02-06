@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 1
+====================
+Name of Staff: John
+Hours Worked: 9
+
+Basic Pay: $270.00
+Overtime: $0.00
+
+====================
+Total Pay: $270.00
+====================
